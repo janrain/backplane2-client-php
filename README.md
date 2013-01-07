@@ -1,7 +1,8 @@
 Backplane 2 PHP Client (v0.9.0)
 =======================
 
-This library integrates server side Backplane clients with the Backplane server protocol [https://github.com/janrain/janrain-backplane-2].
+This library integrates server side Backplane clients with the
+[Backplane server protocol](https://github.com/janrain/janrain-backplane-2).
 
 Usage
 -----
